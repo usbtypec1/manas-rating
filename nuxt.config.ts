@@ -6,10 +6,7 @@ export default defineNuxtConfig({
 
   css: ['~/assets/css/main.css'],
 
-  modules: [
-    '@pinia/nuxt',
-    '@primevue/nuxt-module',
-  ],
+  modules: ['@pinia/nuxt', '@primevue/nuxt-module', "@nuxt/image"],
 
   primevue: {
     options: {

@@ -20,11 +20,9 @@
     >
       <template #body="slotProps">
         <template v-if="isAllowedToShowPhoto(slotProps.data.applicantId)">
-          <Image
+          <NuxtImg
             v-show="isPhotosShown"
             :src="buildApplicantPhotoUrl(slotProps.data.applicantId)"
-            width="100"
-            preview
           />
           <Button
             v-show="!isPhotosShown"
