@@ -15,7 +15,7 @@ import type { Ref } from 'vue'
 
 const {
   data,
-}: { data: Ref<DepartmentRatings[]> } = await useFetch('https://manas-ratings.vercel.app/api/departments')
+}: { data: Ref<DepartmentRatings[]> } = await useFetch('/api/departments')
 
 const ratingsStore = useRatingsStore()
 

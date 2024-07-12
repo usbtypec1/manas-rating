@@ -24,6 +24,6 @@
 <script setup lang="ts">
 const route = useRoute()
 
-const url = `https://manas-ratings.vercel.app/api/departments/${route.params.id}`
+const url = `/api/departments/${route.params.id}`
 const { data, refresh, status } = await useFetch(url)
 </script>
