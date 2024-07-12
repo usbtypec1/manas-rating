@@ -22,8 +22,14 @@
 </template>
 
 <script setup lang="ts">
+import { useIntervalFn } from '@vueuse/core'
+
 const route = useRoute()
 
 const url = `https://manas-ratings.vercel.app/api/departments/${route.params.id}`
 const { data, refresh, status } = await useFetch(url)
+
+const { resume } = useIntervalFn(refresh, 10000)
+
+onMounted(resume)
 </script>
