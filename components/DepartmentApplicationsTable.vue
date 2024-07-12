@@ -1,5 +1,7 @@
 <template>
-  <DataTable :value="applications">
+  <DataTable
+    scrollable
+    :value="applications">
 
     <template #header>
       <h2>{{ facultyName }}</h2>

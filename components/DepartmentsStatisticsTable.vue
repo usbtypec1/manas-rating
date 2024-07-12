@@ -1,5 +1,6 @@
 <template>
   <DataTable
+    scrollable
     v-for="{ facultyName, departments } in facultiesDepartmentsStatistics"
     :value="departments"
     striped-rows

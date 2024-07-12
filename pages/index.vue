@@ -1,6 +1,8 @@
 <template>
-  <div class="flex flex-col items-center">
-    <ContactInfo/>
+  <div>
+    <div class="text-center">
+      <ContactInfo/>
+    </div>
     <DepartmentsStatisticsTable
       :faculties-departments-statistics="ratingsStore.facultiesDepartmentsStatistics"
     />
