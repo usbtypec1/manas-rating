@@ -1,4 +1,4 @@
-import { fetchAndParseDepartmentStatistics } from '~/services/manas.js'
+import { fetchAndParseDepartmentStatistics } from '../../services/manas.js'
 
 
 const getDepartmentsRatings = async (departmentIds) => {
