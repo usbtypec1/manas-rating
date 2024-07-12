@@ -9,6 +9,7 @@ export const PHOTOS_BLACKLIST_APPLICATION_NUMBERS: string[] = [
   '24004028',
   '24009135',
   '24002005',
+  '24001115',
 ]
 
 export const buildApplicantPhotoUrl = (applicantId: string): string => {
