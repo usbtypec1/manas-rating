@@ -1,6 +1,6 @@
 <template>
   <header>
-    <Menubar :model="headerItems">
+    <Menubar :model="headerItems" breakpoint="600">
       <template #item="{ item, props, hasSubmenu }">
         <NuxtLink v-if="item.to" v-slot="{ href, navigate }" :to="item.to" custom>
           <a v-ripple :href="href" v-bind="props.action" @click="navigate">
