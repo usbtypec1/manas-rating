@@ -33,5 +33,10 @@ const headerItems: HeaderItem[]  = [
     icon: 'pi pi-fw pi-home',
     to: '/',
   },
+  {
+    label: 'Топ абитуриентов',
+    icon: 'pi pi-fw pi-users',
+    to: '/applicants-top',
+  },
 ]
 </script>

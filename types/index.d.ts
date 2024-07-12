@@ -59,4 +59,12 @@ declare global {
     facultyName: string
     departments: DepartmentWithStatistics[]
   }
+
+  interface GlobalRatingApplicant {
+    id: string
+    rating: number
+    departmentName: string
+    primaryScore: number
+    isPassed: boolean
+  }
 }
