@@ -4,8 +4,10 @@
     :value="applications">
 
     <template #header>
-      <h2>{{ facultyName }}</h2>
-      <h3>{{ departmentName }}</h3>
+      <div class="text-center">
+        <h2 class="text-xl font-bold">{{ facultyName }}</h2>
+        <p class="text-lg font-bold">{{ departmentName }}</p>
+      </div>
     </template>
 
     <Column field="rating" header="Рейтинг" sortable=""/>
