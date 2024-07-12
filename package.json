@@ -24,6 +24,7 @@
     "@primevue/themes": "^4.0.0",
     "@vueuse/core": "^10.11.0",
     "axios": "^1.7.2",
+    "chart.js": "^4.4.3",
     "cheerio": "^1.0.0-rc.12",
     "pinia": "^2.1.7",
     "primeicons": "^7.0.0",
