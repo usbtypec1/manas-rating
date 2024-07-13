@@ -27,7 +27,9 @@ import { useIntervalFn } from '@vueuse/core'
 const route = useRoute()
 
 const url = `https://manas-ratings.vercel.app/api/departments/${route.params.id}`
-const { data, refresh, status } = await useFetch(url)
+const { data, refresh, status } = await useFetch(url, {
+  key: `department-${route.params.id}`,
+})
 
 const { resume } = useIntervalFn(refresh, 10000)
 

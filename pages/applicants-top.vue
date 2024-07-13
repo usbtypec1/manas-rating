@@ -8,7 +8,11 @@
 </template>
 
 <script setup lang="ts">
-const { data } = await useFetch<DepartmentRatings[]>('https://manas-ratings.vercel.app/api/departments')
+
+const url = 'https://manas-ratings.vercel.app/api/departments'
+const { data } = await useFetch<DepartmentRatings[]>(url, {
+  key: 'departments',
+})
 
 const applicantsTop = computed((): GlobalRatingApplicant[] => {
   if (data.value === null) return []
