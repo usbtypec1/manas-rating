@@ -25,6 +25,7 @@
           <NuxtImg
             v-show="isPhotosShown"
             :src="slotProps.data.photo_url"
+            loading="lazy"
           />
           <Button
             v-show="!isPhotosShown"
