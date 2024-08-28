@@ -1,6 +1,6 @@
 <template>
   <div>
-    <AppHeader/>
+<!--    <AppHeader/>-->
     <ConfirmDialog class="mx-4 max-w-96"/>
     <main class="container mx-auto pt-4">
       <ContactInfo/>
