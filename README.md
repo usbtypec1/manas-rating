@@ -1,48 +1,26 @@
-# Nuxt Example
+# Улучшенный рейтинг вступительных экзаменов университета Манас
 
-Deploy your [Nuxt](https://nuxt.com) project to Vercel with zero configuration.
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/nuxtjs&template=nuxtjs)
+---
 
-_Live Example: https://nuxtjs-template.vercel.app_
+Преимущества данного сервиса перед [официальным](https://abiturient.manas.edu.kg/page/index.php?r=site%2Fmonitoring-all-deps) рейтингом:
 
-Look at the [Nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+1. Статистика по каждому факультету и направлению
+2. Доступны фотографии каждого абитуриента
+3. Доступны результаты за все туры
+4. Доступны результаты и бакалавра, и MYO в одном месте
 
-## Setup
+---
 
-Make sure to install the dependencies:
+Посмотреть можно тут: https://manas-ratings.vercel.app/
 
-```bash
-# yarn
-yarn
+--- 
 
-# npm
-npm install
+Проект работает на Nuxt 3 в SSR режиме. 
 
-# pnpm
-pnpm install --shamefully-hoist
-```
+Данные хранятся с помощью плагина Nuxt Content.
 
-## Development Server
-
-Start the development server on http://localhost:3000
-
-```bash
-npm run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Checkout the [deployment documentation](https://nuxt.com/docs/getting-started/deployment#presets) for more information.
+Сайт хостится на Vercel.
