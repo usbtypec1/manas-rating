@@ -4,7 +4,6 @@ import Aura from '@primevue/themes/aura'
 export default defineNuxtConfig({
   devtools: { enabled: true },
   css: ['~/assets/css/main.css'],
-  ssr: false,
 
   modules: [
     '@pinia/nuxt',
