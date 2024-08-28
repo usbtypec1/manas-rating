@@ -1,4 +1,4 @@
-export const PHOTOS_BLACKLIST_APPLICATION_NUMBERS: string[] = [
+export const PHOTOS_BLACKLIST_APPLICATION_NUMBERS = new Set<string>([
   '24005554',
   '24006514',
   '24001338',
@@ -10,8 +10,6 @@ export const PHOTOS_BLACKLIST_APPLICATION_NUMBERS: string[] = [
   '24009135',
   '24002005',
   '24001115',
-]
+])
 
-export const buildApplicantPhotoUrl = (applicantId: string): string => {
-  return `https://abiturient.manas.edu.kg/page/uploads/photo/${applicantId}.jpg`
-}
+export const isAllowedToShowPhoto = (applicantId: string): boolean => !PHOTOS_BLACKLIST_APPLICATION_NUMBERS.has(applicantId)

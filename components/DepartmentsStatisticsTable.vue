@@ -11,7 +11,7 @@
     </template>
     <Column header="Направление">
       <template #body="slotProps">
-        <NuxtLink :to="{ name: 'departments-id', params: { id: slotProps.data.id } }">
+        <NuxtLink :to="{ name: 'bachelor-departments-id', params: { id: slotProps.data.id } }">
           <span class="text-violet-500">{{ slotProps.data.name }}</span>
         </NuxtLink>
       </template>

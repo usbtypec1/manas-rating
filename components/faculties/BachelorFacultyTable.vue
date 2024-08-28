@@ -1,7 +1,13 @@
 <template>
   <FacultyName :name="faculty.name" :emoji="faculty.emoji"/>
   <DataTable :value="departments">
-    <Column field="name" header="Направление"/>
+    <Column field="name" header="Направление">
+      <template #body="slotProps">
+        <NuxtLink :to="{ name: 'bachelor-departments-id', params: { id: slotProps.data.id } }">
+          <span class="text-violet-500">{{ slotProps.data.name }}</span>
+        </NuxtLink>
+      </template>
+    </Column>
     <Column
       field="firstStageStatistics.minPassingPrimaryScore.label"
       sort-field="firstStageStatistics.minPassingPrimaryScore.value"

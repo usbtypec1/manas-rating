@@ -1,37 +1,25 @@
-import { computeApplicationsStatistics } from '~/services/statistics'
+import { defineStore } from 'pinia'
+import type { Faculty } from '~/types/faculties'
+import type { BachelorApplicant } from '~/types/applications'
+import type { Department } from '~/types/departments'
 
-export const useRatingsStore = defineStore('departmentsStatistics', () => {
-  const facultiesDepartments = ref<FacultyDepartments[]>()
-  const departmentsRatings = ref<DepartmentRatings[]>()
+export const useBachelorFacultiesStore = defineStore('facultiesStore', () => {
+  const faculties = ref<Faculty<BachelorApplicant>[]>()
 
-  const setFacultiesDepartments = (data: FacultyDepartments[]) => facultiesDepartments.value = data
-  const setDepartmentsRatings = (data: DepartmentRatings[]) => departmentsRatings.value = data
+  const fetchAll = async () => {
+    const { data } = await useAsyncData('bachelor', () => queryContent<Faculty<BachelorApplicant>[]>('2024', 'bachelor').findOne())
+    faculties.value = data.value.body
+  }
 
-  const facultiesDepartmentsStatistics = computed(() => {
-    if (!facultiesDepartments.value || !departmentsRatings.value) return []
-
-    const departmentIdToStatistics = new Map()
-    for (const { departmentId, quota, applications } of departmentsRatings.value) {
-      const departmentStatistics = computeApplicationsStatistics(applications)
-      departmentIdToStatistics.set(departmentId, { ...departmentStatistics, quota })
-    }
-
-    return facultiesDepartments.value.map(({ facultyName, departments }) => {
-      const departmentsWithStatistics = departments.map(department => {
-        return {
-          ...department,
-          statistics: departmentIdToStatistics.get(department.id),
-        }
-      })
-      return { facultyName, departments: departmentsWithStatistics }
-    })
-  })
+  const getDepartmentById = (departmentId: number): Department<BachelorApplicant> | undefined => {
+    return faculties.value
+      ?.flatMap(faculty => faculty.departments)
+      ?.find(department => department.id === departmentId)
+  }
 
   return {
-    facultiesDepartments,
-    setFacultiesDepartments,
-    departmentsRatings,
-    setDepartmentsRatings,
-    facultiesDepartmentsStatistics,
+    faculties,
+    fetchAll,
+    getDepartmentById,
   }
 })

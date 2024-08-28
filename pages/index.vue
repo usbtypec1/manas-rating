@@ -1,7 +1,7 @@
 <template>
   <div>
     <FacultyList
-      :bachelor-faculties="bachelorFacultiesData.body"
+      :bachelor-faculties="bachelorFacultiesStore.faculties"
       :myo-faculties="myoFacultiesData.body"
       :sports-and-art-faculties="sportsAndArtFacultiesData.body"
     />
@@ -12,9 +12,14 @@
 import type { Faculty } from '~/types/faculties'
 import type { BachelorApplicant } from '~/types/applications'
 import FacultyList from '~/components/faculties/FacultyList.vue'
+import { useBachelorFacultiesStore } from '~/stores/ratings'
 
+const bachelorFacultiesStore = useBachelorFacultiesStore()
 
-const { data: bachelorFacultiesData } = await useAsyncData('bachelor', () => queryContent<Faculty<BachelorApplicant>[]>('2024', 'bachelor').findOne())
+if (!bachelorFacultiesStore.faculties) {
+  await bachelorFacultiesStore.fetchAll()
+}
+
 const { data: myoFacultiesData } = await useAsyncData('myo', () => queryContent<Faculty<BachelorApplicant>[]>('2024', 'myo').findOne())
 const { data: sportsAndArtFacultiesData } = await useAsyncData('sports_and_art', () => queryContent<Faculty<BachelorApplicant>[]>('2024', 'sports_and_art').findOne())
 </script>

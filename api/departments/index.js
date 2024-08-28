@@ -25,7 +25,7 @@ export async function GET(request) {
     })
   } catch (error) {
     console.error(error)
-    return new Response(JSON.stringify({ error: 'Failed to fetch departments ratings' }), {
+    return new Response(JSON.stringify({ error: 'Failed to fetch bachelor-departments ratings' }), {
       status: 500,
       headers: {
         'Content-Type': 'application/json',
