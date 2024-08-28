@@ -1,5 +1,6 @@
 module.exports = {
   plugins: [
+    require('daisyui'),
   ],
   content: [
     "./components/**/*.{js,vue,ts}",

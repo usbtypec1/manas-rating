@@ -1,0 +1,3308 @@
+[
+    {
+        "id": "c08315aa-01e7-4c0b-b7cd-0c848b899124",
+        "name": {
+            "kg": "Кесиптик орто билим берүү колледжи",
+            "ru": "Колледж среднего профессионального образования"
+        },
+        "emoji": "\uD83C\uDF93",
+        "departments": [
+            {
+                "id": 1,
+                "name": {
+                    "kg": "Менеджмент",
+                    "ru": "Mенеджмент"
+                },
+                "emoji": "\uD83D\uDCCA",
+                "stages": [
+                    {
+                        "number": 1,
+                        "quota": 30,
+                        "applicants": [
+                            {
+                                "ort_certificate_number": "4202224",
+                                "rating": 1,
+                                "ort_score": 189.0,
+                                "created_at": "2024-07-17 12:22:54",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4217921",
+                                "rating": 2,
+                                "ort_score": 189.0,
+                                "created_at": "2024-07-17 11:26:51",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4230961",
+                                "rating": 3,
+                                "ort_score": 184.0,
+                                "created_at": "2024-07-17 16:13:02",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4231267",
+                                "rating": 4,
+                                "ort_score": 179.0,
+                                "created_at": "2024-07-17 16:47:36",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4211173",
+                                "rating": 5,
+                                "ort_score": 179.0,
+                                "created_at": "2024-07-17 16:54:34",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4951617",
+                                "rating": 6,
+                                "ort_score": 175.0,
+                                "created_at": "2024-07-17 16:46:45",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4701714",
+                                "rating": 7,
+                                "ort_score": 172.0,
+                                "created_at": "2024-07-17 16:42:43",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4202228",
+                                "rating": 8,
+                                "ort_score": 170.0,
+                                "created_at": "2024-07-17 13:44:59",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4950874",
+                                "rating": 9,
+                                "ort_score": 169.0,
+                                "created_at": "2024-07-16 09:12:35",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4222388",
+                                "rating": 10,
+                                "ort_score": 167.0,
+                                "created_at": "2024-07-17 16:47:00",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4121045",
+                                "rating": 11,
+                                "ort_score": 167.0,
+                                "created_at": "2024-07-17 14:30:03",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4390191",
+                                "rating": 12,
+                                "ort_score": 166.0,
+                                "created_at": "2024-07-17 16:34:14",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4231534",
+                                "rating": 13,
+                                "ort_score": 166.0,
+                                "created_at": "2024-07-17 16:51:54",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4940053",
+                                "rating": 14,
+                                "ort_score": 163.0,
+                                "created_at": "2024-07-17 16:45:41",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4100240",
+                                "rating": 15,
+                                "ort_score": 163.0,
+                                "created_at": "2024-07-16 13:29:42",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4380751",
+                                "rating": 16,
+                                "ort_score": 163.0,
+                                "created_at": "2024-07-17 16:57:05",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4202648",
+                                "rating": 17,
+                                "ort_score": 162.0,
+                                "created_at": "2024-07-17 16:50:09",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4930514",
+                                "rating": 18,
+                                "ort_score": 160.0,
+                                "created_at": "2024-07-17 14:52:49",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4560309",
+                                "rating": 19,
+                                "ort_score": 160.0,
+                                "created_at": "2024-07-16 14:18:35",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4751299",
+                                "rating": 20,
+                                "ort_score": 159.0,
+                                "created_at": "2024-07-17 16:55:55",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4637934",
+                                "rating": 21,
+                                "ort_score": 159.0,
+                                "created_at": "2024-07-17 16:13:35",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4820111",
+                                "rating": 22,
+                                "ort_score": 159.0,
+                                "created_at": "2024-07-17 16:58:28",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4920273",
+                                "rating": 23,
+                                "ort_score": 158.0,
+                                "created_at": "2024-07-17 16:38:18",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4751296",
+                                "rating": 24,
+                                "ort_score": 158.0,
+                                "created_at": "2024-07-17 16:19:28",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4520193",
+                                "rating": 25,
+                                "ort_score": 158.0,
+                                "created_at": "2024-07-17 16:59:24",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4448176",
+                                "rating": 26,
+                                "ort_score": 156.0,
+                                "created_at": "2024-07-17 16:14:29",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4360062",
+                                "rating": 27,
+                                "ort_score": 153.0,
+                                "created_at": "2024-07-16 15:49:09",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4200864",
+                                "rating": 28,
+                                "ort_score": 153.0,
+                                "created_at": "2024-07-17 10:54:17",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4910408",
+                                "rating": 29,
+                                "ort_score": 152.0,
+                                "created_at": "2024-07-16 11:28:40",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4520789",
+                                "rating": 30,
+                                "ort_score": 152.0,
+                                "created_at": "2024-07-16 14:13:01",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4448180",
+                                "rating": 31,
+                                "ort_score": 152.0,
+                                "created_at": "2024-07-17 16:37:58",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4560630",
+                                "rating": 32,
+                                "ort_score": 151.0,
+                                "created_at": "2024-07-17 16:09:28",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4202769",
+                                "rating": 33,
+                                "ort_score": 151.0,
+                                "created_at": "2024-07-16 16:54:22",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4710341",
+                                "rating": 34,
+                                "ort_score": 150.0,
+                                "created_at": "2024-07-17 15:21:52",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4500580",
+                                "rating": 35,
+                                "ort_score": 150.0,
+                                "created_at": "2024-07-17 11:40:59",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4730590",
+                                "rating": 36,
+                                "ort_score": 147.0,
+                                "created_at": "2024-07-17 14:46:30",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4597252",
+                                "rating": 37,
+                                "ort_score": 147.0,
+                                "created_at": "2024-07-17 09:33:13",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4207989",
+                                "rating": 38,
+                                "ort_score": 147.0,
+                                "created_at": "2024-07-17 15:02:40",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4740307",
+                                "rating": 39,
+                                "ort_score": 145.0,
+                                "created_at": "2024-07-16 16:10:07",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4810099",
+                                "rating": 40,
+                                "ort_score": 144.0,
+                                "created_at": "2024-07-17 15:00:29",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4232810",
+                                "rating": 41,
+                                "ort_score": 144.0,
+                                "created_at": "2024-07-17 15:49:56",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4100800",
+                                "rating": 42,
+                                "ort_score": 143.0,
+                                "created_at": "2024-07-17 14:09:51",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4740333",
+                                "rating": 43,
+                                "ort_score": 143.0,
+                                "created_at": "2024-07-16 14:41:07",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4560183",
+                                "rating": 44,
+                                "ort_score": 142.0,
+                                "created_at": "2024-07-17 09:14:08",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4448177",
+                                "rating": 45,
+                                "ort_score": 142.0,
+                                "created_at": "2024-07-17 16:10:55",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4100796",
+                                "rating": 46,
+                                "ort_score": 141.0,
+                                "created_at": "2024-07-16 14:16:09",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4230173",
+                                "rating": 47,
+                                "ort_score": 141.0,
+                                "created_at": "2024-07-16 16:40:34",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4380483",
+                                "rating": 48,
+                                "ort_score": 140.0,
+                                "created_at": "2024-07-17 09:22:07",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4520609",
+                                "rating": 49,
+                                "ort_score": 140.0,
+                                "created_at": "2024-07-17 16:56:36",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4120863",
+                                "rating": 50,
+                                "ort_score": 140.0,
+                                "created_at": "2024-07-17 14:25:48",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4960347",
+                                "rating": 51,
+                                "ort_score": 138.0,
+                                "created_at": "2024-07-16 14:16:35",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4300203",
+                                "rating": 52,
+                                "ort_score": 138.0,
+                                "created_at": "2024-07-17 12:09:54",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4840199",
+                                "rating": 53,
+                                "ort_score": 138.0,
+                                "created_at": "2024-07-17 16:47:04",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4400132",
+                                "rating": 54,
+                                "ort_score": 136.0,
+                                "created_at": "2024-07-16 15:56:45",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4510340",
+                                "rating": 55,
+                                "ort_score": 136.0,
+                                "created_at": "2024-07-16 12:44:13",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4110761",
+                                "rating": 56,
+                                "ort_score": 135.0,
+                                "created_at": "2024-07-17 13:55:39",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4810224",
+                                "rating": 57,
+                                "ort_score": 135.0,
+                                "created_at": "2024-07-16 12:54:01",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4232504",
+                                "rating": 58,
+                                "ort_score": 131.0,
+                                "created_at": "2024-07-16 16:12:48",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4810105",
+                                "rating": 59,
+                                "ort_score": 130.0,
+                                "created_at": "2024-07-17 15:37:56",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4951485",
+                                "rating": 60,
+                                "ort_score": 130.0,
+                                "created_at": "2024-07-17 12:35:23",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4100167",
+                                "rating": 61,
+                                "ort_score": 128.0,
+                                "created_at": "2024-07-17 09:41:06",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4510727",
+                                "rating": 62,
+                                "ort_score": 128.0,
+                                "created_at": "2024-07-16 16:54:05",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4640205",
+                                "rating": 63,
+                                "ort_score": 128.0,
+                                "created_at": "2024-07-17 12:54:50",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4550396",
+                                "rating": 64,
+                                "ort_score": 125.0,
+                                "created_at": "2024-07-17 13:33:52",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4830074",
+                                "rating": 65,
+                                "ort_score": 121.0,
+                                "created_at": "2024-07-17 14:07:39",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4640158",
+                                "rating": 66,
+                                "ort_score": 119.0,
+                                "created_at": "2024-07-16 11:50:43",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4520260",
+                                "rating": 67,
+                                "ort_score": 119.0,
+                                "created_at": "2024-07-16 10:19:51",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4940013",
+                                "rating": 68,
+                                "ort_score": 116.0,
+                                "created_at": "2024-07-17 11:19:20",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4212722",
+                                "rating": 69,
+                                "ort_score": 115.0,
+                                "created_at": "2024-07-16 13:26:17",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4750274",
+                                "rating": 70,
+                                "ort_score": 112.0,
+                                "created_at": "2024-07-17 16:23:42",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4230562",
+                                "rating": 71,
+                                "ort_score": 110.0,
+                                "created_at": "2024-07-16 13:17:58",
+                                "is_passed": false
+                            }
+                        ]
+                    },
+                    {
+                        "number": 2,
+                        "quota": 15,
+                        "applicants": [
+                            {
+                                "ort_certificate_number": "4560183",
+                                "rating": 1,
+                                "ort_score": 142.0,
+                                "created_at": "2024-07-24 09:16:03",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4220332",
+                                "rating": 2,
+                                "ort_score": 137.0,
+                                "created_at": "2024-07-24 09:14:05",
+                                "is_passed": true
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": {
+                    "kg": "Экономика жана бухгалтердик эсеп",
+                    "ru": "Экономика и бухгалтерский учет"
+                },
+                "emoji": "\uD83D\uDCBC",
+                "stages": [
+                    {
+                        "number": 1,
+                        "quota": 30,
+                        "applicants": [
+                            {
+                                "ort_certificate_number": "4220213",
+                                "rating": 1,
+                                "ort_score": 197.0,
+                                "created_at": "2024-07-17 09:56:30",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4211883",
+                                "rating": 2,
+                                "ort_score": 185.0,
+                                "created_at": "2024-07-17 13:18:41",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4231260",
+                                "rating": 3,
+                                "ort_score": 182.0,
+                                "created_at": "2024-07-17 15:28:09",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4380392",
+                                "rating": 4,
+                                "ort_score": 180.0,
+                                "created_at": "2024-07-17 13:38:36",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4970659",
+                                "rating": 5,
+                                "ort_score": 176.0,
+                                "created_at": "2024-07-17 16:49:07",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4400069",
+                                "rating": 6,
+                                "ort_score": 175.0,
+                                "created_at": "2024-07-17 13:54:03",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4540175",
+                                "rating": 7,
+                                "ort_score": 173.0,
+                                "created_at": "2024-07-17 10:05:29",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4110839",
+                                "rating": 8,
+                                "ort_score": 173.0,
+                                "created_at": "2024-07-16 14:23:41",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4960576",
+                                "rating": 9,
+                                "ort_score": 172.0,
+                                "created_at": "2024-07-17 16:53:49",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4100444",
+                                "rating": 10,
+                                "ort_score": 169.0,
+                                "created_at": "2024-07-17 12:06:07",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4100313",
+                                "rating": 11,
+                                "ort_score": 168.0,
+                                "created_at": "2024-07-16 16:04:50",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4100055",
+                                "rating": 12,
+                                "ort_score": 166.0,
+                                "created_at": "2024-07-17 14:08:42",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4820067",
+                                "rating": 13,
+                                "ort_score": 166.0,
+                                "created_at": "2024-07-17 12:09:30",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4207739",
+                                "rating": 14,
+                                "ort_score": 162.0,
+                                "created_at": "2024-07-17 13:14:39",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4200998",
+                                "rating": 15,
+                                "ort_score": 158.0,
+                                "created_at": "2024-07-17 12:49:36",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4231404",
+                                "rating": 16,
+                                "ort_score": 158.0,
+                                "created_at": "2024-07-17 09:31:05",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4640185",
+                                "rating": 17,
+                                "ort_score": 157.0,
+                                "created_at": "2024-07-17 16:57:58",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4201916",
+                                "rating": 18,
+                                "ort_score": 156.0,
+                                "created_at": "2024-07-16 12:58:40",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4980069",
+                                "rating": 19,
+                                "ort_score": 156.0,
+                                "created_at": "2024-07-16 13:50:11",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4951180",
+                                "rating": 20,
+                                "ort_score": 154.0,
+                                "created_at": "2024-07-17 13:12:20",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4761139",
+                                "rating": 21,
+                                "ort_score": 154.0,
+                                "created_at": "2024-07-17 16:29:24",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4140232",
+                                "rating": 22,
+                                "ort_score": 153.0,
+                                "created_at": "2024-07-17 16:58:35",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4530194",
+                                "rating": 23,
+                                "ort_score": 153.0,
+                                "created_at": "2024-07-17 16:57:30",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4231960",
+                                "rating": 24,
+                                "ort_score": 153.0,
+                                "created_at": "2024-07-17 14:23:48",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4951252",
+                                "rating": 25,
+                                "ort_score": 152.0,
+                                "created_at": "2024-07-17 10:26:58",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4630742",
+                                "rating": 26,
+                                "ort_score": 152.0,
+                                "created_at": "2024-07-17 16:59:08",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4500208",
+                                "rating": 27,
+                                "ort_score": 152.0,
+                                "created_at": "2024-07-16 09:20:59",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4201767",
+                                "rating": 28,
+                                "ort_score": 150.0,
+                                "created_at": "2024-07-17 16:59:28",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4520255",
+                                "rating": 29,
+                                "ort_score": 150.0,
+                                "created_at": "2024-07-17 09:24:48",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4640294",
+                                "rating": 30,
+                                "ort_score": 150.0,
+                                "created_at": "2024-07-17 16:21:41",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4597326",
+                                "rating": 31,
+                                "ort_score": 150.0,
+                                "created_at": "2024-07-17 09:41:58",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4750768",
+                                "rating": 32,
+                                "ort_score": 149.0,
+                                "created_at": "2024-07-17 16:35:28",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4520184",
+                                "rating": 33,
+                                "ort_score": 148.0,
+                                "created_at": "2024-07-17 11:04:57",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4930341",
+                                "rating": 34,
+                                "ort_score": 148.0,
+                                "created_at": "2024-07-17 10:24:19",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4120018",
+                                "rating": 35,
+                                "ort_score": 147.0,
+                                "created_at": "2024-07-17 16:58:12",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4500601",
+                                "rating": 36,
+                                "ort_score": 146.0,
+                                "created_at": "2024-07-17 14:37:25",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4530192",
+                                "rating": 37,
+                                "ort_score": 145.0,
+                                "created_at": "2024-07-16 11:10:51",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4910107",
+                                "rating": 38,
+                                "ort_score": 143.0,
+                                "created_at": "2024-07-16 12:56:28",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4760005",
+                                "rating": 39,
+                                "ort_score": 142.0,
+                                "created_at": "2024-07-16 10:49:14",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4340456",
+                                "rating": 40,
+                                "ort_score": 141.0,
+                                "created_at": "2024-07-17 15:03:10",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4211532",
+                                "rating": 41,
+                                "ort_score": 141.0,
+                                "created_at": "2024-07-16 12:34:19",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4960276",
+                                "rating": 42,
+                                "ort_score": 139.0,
+                                "created_at": "2024-07-16 14:06:47",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4910047",
+                                "rating": 43,
+                                "ort_score": 139.0,
+                                "created_at": "2024-07-17 09:05:09",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4951212",
+                                "rating": 44,
+                                "ort_score": 138.0,
+                                "created_at": "2024-07-17 12:32:30",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4220332",
+                                "rating": 45,
+                                "ort_score": 137.0,
+                                "created_at": "2024-07-16 09:05:25",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4222288",
+                                "rating": 46,
+                                "ort_score": 137.0,
+                                "created_at": "2024-07-16 11:08:48",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4970882",
+                                "rating": 47,
+                                "ort_score": 136.0,
+                                "created_at": "2024-07-16 09:31:51",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4930308",
+                                "rating": 48,
+                                "ort_score": 132.0,
+                                "created_at": "2024-07-17 09:12:05",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4500223",
+                                "rating": 49,
+                                "ort_score": 129.0,
+                                "created_at": "2024-07-16 09:56:31",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4308062",
+                                "rating": 50,
+                                "ort_score": 127.0,
+                                "created_at": "2024-07-17 10:19:11",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4121039",
+                                "rating": 51,
+                                "ort_score": 127.0,
+                                "created_at": "2024-07-16 13:30:13",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4121189",
+                                "rating": 52,
+                                "ort_score": 126.0,
+                                "created_at": "2024-07-16 09:19:03",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4221941",
+                                "rating": 53,
+                                "ort_score": 125.0,
+                                "created_at": "2024-07-17 10:41:44",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4810208",
+                                "rating": 54,
+                                "ort_score": 124.0,
+                                "created_at": "2024-07-16 13:26:32",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4500334",
+                                "rating": 55,
+                                "ort_score": 122.0,
+                                "created_at": "2024-07-16 12:12:19",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4770121",
+                                "rating": 56,
+                                "ort_score": 120.0,
+                                "created_at": "2024-07-16 10:26:42",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4640077",
+                                "rating": 57,
+                                "ort_score": 120.0,
+                                "created_at": "2024-07-17 09:21:10",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4810228",
+                                "rating": 58,
+                                "ort_score": 111.0,
+                                "created_at": "2024-07-16 13:23:16",
+                                "is_passed": false
+                            }
+                        ]
+                    },
+                    {
+                        "number": 2,
+                        "quota": 6,
+                        "applicants": [
+                            {
+                                "ort_certificate_number": "4232495",
+                                "rating": 1,
+                                "ort_score": 143.0,
+                                "created_at": "2024-07-24 09:23:11",
+                                "is_passed": true
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "name": {
+                    "kg": "Курулуштарды жана имараттарды куруу жана эксплуатациялоо",
+                    "ru": "Строительство и эксплуатация зданий и сооружений"
+                },
+                "emoji": "\uD83C\uDFD7\uFE0F",
+                "stages": [
+                    {
+                        "number": 1,
+                        "quota": 30,
+                        "applicants": [
+                            {
+                                "ort_certificate_number": "4730610",
+                                "rating": 1,
+                                "ort_score": 179.0,
+                                "created_at": "2024-07-16 16:08:55",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4232094",
+                                "rating": 2,
+                                "ort_score": 162.0,
+                                "created_at": "2024-07-17 16:58:36",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4600186",
+                                "rating": 3,
+                                "ort_score": 161.0,
+                                "created_at": "2024-07-16 11:10:30",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4710508",
+                                "rating": 4,
+                                "ort_score": 153.0,
+                                "created_at": "2024-07-17 16:04:45",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4410250",
+                                "rating": 5,
+                                "ort_score": 150.0,
+                                "created_at": "2024-07-17 16:42:09",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4730704",
+                                "rating": 6,
+                                "ort_score": 143.0,
+                                "created_at": "2024-07-16 11:45:01",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4300534",
+                                "rating": 7,
+                                "ort_score": 141.0,
+                                "created_at": "2024-07-17 11:07:44",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4607804",
+                                "rating": 8,
+                                "ort_score": 139.0,
+                                "created_at": "2024-07-17 16:57:28",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4830369",
+                                "rating": 9,
+                                "ort_score": 137.0,
+                                "created_at": "2024-07-17 16:57:32",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4510776",
+                                "rating": 10,
+                                "ort_score": 137.0,
+                                "created_at": "2024-07-17 16:48:13",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4920279",
+                                "rating": 11,
+                                "ort_score": 137.0,
+                                "created_at": "2024-07-17 16:49:03",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4217980",
+                                "rating": 12,
+                                "ort_score": 136.0,
+                                "created_at": "2024-07-17 16:59:30",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4901213",
+                                "rating": 13,
+                                "ort_score": 135.0,
+                                "created_at": "2024-07-17 16:50:01",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4510696",
+                                "rating": 14,
+                                "ort_score": 134.0,
+                                "created_at": "2024-07-17 16:59:03",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4230910",
+                                "rating": 15,
+                                "ort_score": 132.0,
+                                "created_at": "2024-07-17 16:47:47",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4650247",
+                                "rating": 16,
+                                "ort_score": 132.0,
+                                "created_at": "2024-07-17 16:17:39",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4640429",
+                                "rating": 17,
+                                "ort_score": 130.0,
+                                "created_at": "2024-07-17 11:20:12",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4510768",
+                                "rating": 18,
+                                "ort_score": 129.0,
+                                "created_at": "2024-07-17 16:33:48",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4200097",
+                                "rating": 19,
+                                "ort_score": 128.0,
+                                "created_at": "2024-07-17 16:54:41",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4207948",
+                                "rating": 20,
+                                "ort_score": 128.0,
+                                "created_at": "2024-07-17 16:59:34",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4810151",
+                                "rating": 21,
+                                "ort_score": 127.0,
+                                "created_at": "2024-07-17 15:20:20",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4100422",
+                                "rating": 22,
+                                "ort_score": 123.0,
+                                "created_at": "2024-07-17 16:53:32",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4231328",
+                                "rating": 23,
+                                "ort_score": 123.0,
+                                "created_at": "2024-07-17 16:10:19",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4232709",
+                                "rating": 24,
+                                "ort_score": 121.0,
+                                "created_at": "2024-07-17 16:58:43",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4530188",
+                                "rating": 25,
+                                "ort_score": 120.0,
+                                "created_at": "2024-07-16 11:19:23",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4958136",
+                                "rating": 26,
+                                "ort_score": 119.0,
+                                "created_at": "2024-07-17 16:55:41",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4800007",
+                                "rating": 27,
+                                "ort_score": 118.0,
+                                "created_at": "2024-07-17 16:17:44",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4920127",
+                                "rating": 28,
+                                "ort_score": 118.0,
+                                "created_at": "2024-07-17 16:34:23",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4510550",
+                                "rating": 29,
+                                "ort_score": 117.0,
+                                "created_at": "2024-07-17 16:52:50",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4630631",
+                                "rating": 30,
+                                "ort_score": 117.0,
+                                "created_at": "2024-07-17 16:27:30",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4600308",
+                                "rating": 31,
+                                "ort_score": 117.0,
+                                "created_at": "2024-07-17 16:16:19",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4530660",
+                                "rating": 32,
+                                "ort_score": 116.0,
+                                "created_at": "2024-07-17 15:56:59",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4910773",
+                                "rating": 33,
+                                "ort_score": 116.0,
+                                "created_at": "2024-07-17 16:56:44",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4410258",
+                                "rating": 34,
+                                "ort_score": 114.0,
+                                "created_at": "2024-07-17 15:28:41",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4520331",
+                                "rating": 35,
+                                "ort_score": 113.0,
+                                "created_at": "2024-07-17 16:35:35",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4770219",
+                                "rating": 36,
+                                "ort_score": 111.0,
+                                "created_at": "2024-07-17 16:57:47",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4330139",
+                                "rating": 37,
+                                "ort_score": 110.0,
+                                "created_at": "2024-07-17 16:19:15",
+                                "is_passed": false
+                            }
+                        ]
+                    },
+                    {
+                        "number": 2,
+                        "quota": 6,
+                        "applicants": []
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "name": {
+                    "kg": "Автомобиль унааларын техникалык тейлөө жана оңдоо",
+                    "ru": "Техническое обслуживание и ремонт автомобильного транспорта"
+                },
+                "emoji": "\uD83D\uDE97",
+                "stages": [
+                    {
+                        "number": 1,
+                        "quota": 20,
+                        "applicants": [
+                            {
+                                "ort_certificate_number": "4300313",
+                                "rating": 1,
+                                "ort_score": 141.0,
+                                "created_at": "2024-07-17 16:59:55",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4730597",
+                                "rating": 2,
+                                "ort_score": 135.0,
+                                "created_at": "2024-07-17 14:50:41",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4110791",
+                                "rating": 3,
+                                "ort_score": 134.0,
+                                "created_at": "2024-07-17 16:30:30",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4300309",
+                                "rating": 4,
+                                "ort_score": 133.0,
+                                "created_at": "2024-07-17 16:57:39",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4817826",
+                                "rating": 5,
+                                "ort_score": 131.0,
+                                "created_at": "2024-07-17 15:20:26",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4300792",
+                                "rating": 6,
+                                "ort_score": 130.0,
+                                "created_at": "2024-07-17 14:08:43",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4110792",
+                                "rating": 7,
+                                "ort_score": 127.0,
+                                "created_at": "2024-07-17 16:28:06",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4300459",
+                                "rating": 8,
+                                "ort_score": 126.0,
+                                "created_at": "2024-07-17 13:35:35",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4910870",
+                                "rating": 9,
+                                "ort_score": 123.0,
+                                "created_at": "2024-07-17 13:40:23",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4730577",
+                                "rating": 10,
+                                "ort_score": 121.0,
+                                "created_at": "2024-07-17 16:24:49",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4300825",
+                                "rating": 11,
+                                "ort_score": 120.0,
+                                "created_at": "2024-07-17 16:58:45",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4630243",
+                                "rating": 12,
+                                "ort_score": 119.0,
+                                "created_at": "2024-07-17 14:50:38",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4510218",
+                                "rating": 13,
+                                "ort_score": 117.0,
+                                "created_at": "2024-07-17 14:01:10",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4380459",
+                                "rating": 14,
+                                "ort_score": 110.0,
+                                "created_at": "2024-07-16 11:40:23",
+                                "is_passed": true
+                            }
+                        ]
+                    },
+                    {
+                        "number": 2,
+                        "quota": 12,
+                        "applicants": []
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "name": {
+                    "kg": "Мектепке чейинки билим берүү",
+                    "ru": "Дошкольное образование"
+                },
+                "emoji": "\uD83C\uDFA8",
+                "stages": [
+                    {
+                        "number": 1,
+                        "quota": 30,
+                        "applicants": [
+                            {
+                                "ort_certificate_number": "4840043",
+                                "rating": 1,
+                                "ort_score": 173.0,
+                                "created_at": "2024-07-17 16:55:27",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4760329",
+                                "rating": 2,
+                                "ort_score": 168.0,
+                                "created_at": "2024-07-17 16:54:56",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4100078",
+                                "rating": 3,
+                                "ort_score": 167.0,
+                                "created_at": "2024-07-17 15:19:31",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4231352",
+                                "rating": 4,
+                                "ort_score": 165.0,
+                                "created_at": "2024-07-17 16:38:15",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4620046",
+                                "rating": 5,
+                                "ort_score": 164.0,
+                                "created_at": "2024-07-17 14:57:44",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4212736",
+                                "rating": 6,
+                                "ort_score": 161.0,
+                                "created_at": "2024-07-17 16:57:28",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4370390",
+                                "rating": 7,
+                                "ort_score": 157.0,
+                                "created_at": "2024-07-17 15:03:35",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4200190",
+                                "rating": 8,
+                                "ort_score": 153.0,
+                                "created_at": "2024-07-17 16:56:31",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4540121",
+                                "rating": 9,
+                                "ort_score": 152.0,
+                                "created_at": "2024-07-17 16:52:31",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4730477",
+                                "rating": 10,
+                                "ort_score": 151.0,
+                                "created_at": "2024-07-17 16:59:27",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4117823",
+                                "rating": 11,
+                                "ort_score": 149.0,
+                                "created_at": "2024-07-16 12:32:41",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4100420",
+                                "rating": 12,
+                                "ort_score": 147.0,
+                                "created_at": "2024-07-17 14:36:45",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4221601",
+                                "rating": 13,
+                                "ort_score": 146.0,
+                                "created_at": "2024-07-16 10:11:24",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4730776",
+                                "rating": 14,
+                                "ort_score": 145.0,
+                                "created_at": "2024-07-17 16:56:49",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4550393",
+                                "rating": 15,
+                                "ort_score": 144.0,
+                                "created_at": "2024-07-16 11:56:40",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4520427",
+                                "rating": 16,
+                                "ort_score": 143.0,
+                                "created_at": "2024-07-17 16:55:56",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4210088",
+                                "rating": 17,
+                                "ort_score": 142.0,
+                                "created_at": "2024-07-17 14:34:51",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4700210",
+                                "rating": 18,
+                                "ort_score": 142.0,
+                                "created_at": "2024-07-17 13:48:58",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4810209",
+                                "rating": 19,
+                                "ort_score": 142.0,
+                                "created_at": "2024-07-17 16:50:50",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4730800",
+                                "rating": 20,
+                                "ort_score": 141.0,
+                                "created_at": "2024-07-17 11:24:38",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4817837",
+                                "rating": 21,
+                                "ort_score": 141.0,
+                                "created_at": "2024-07-16 12:22:21",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4760886",
+                                "rating": 22,
+                                "ort_score": 140.0,
+                                "created_at": "2024-07-17 15:27:17",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4230859",
+                                "rating": 23,
+                                "ort_score": 138.0,
+                                "created_at": "2024-07-17 15:24:46",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4367921",
+                                "rating": 24,
+                                "ort_score": 138.0,
+                                "created_at": "2024-07-17 15:59:31",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4950218",
+                                "rating": 25,
+                                "ort_score": 138.0,
+                                "created_at": "2024-07-17 16:24:43",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4347813",
+                                "rating": 26,
+                                "ort_score": 138.0,
+                                "created_at": "2024-07-17 16:59:26",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4560107",
+                                "rating": 27,
+                                "ort_score": 138.0,
+                                "created_at": "2024-07-17 16:58:12",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4380426",
+                                "rating": 28,
+                                "ort_score": 137.0,
+                                "created_at": "2024-07-16 12:34:00",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4710061",
+                                "rating": 29,
+                                "ort_score": 136.0,
+                                "created_at": "2024-07-17 16:58:38",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4202670",
+                                "rating": 30,
+                                "ort_score": 135.0,
+                                "created_at": "2024-07-17 16:59:13",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4710059",
+                                "rating": 31,
+                                "ort_score": 135.0,
+                                "created_at": "2024-07-17 16:59:24",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4310203",
+                                "rating": 32,
+                                "ort_score": 133.0,
+                                "created_at": "2024-07-17 16:48:10",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4140237",
+                                "rating": 33,
+                                "ort_score": 133.0,
+                                "created_at": "2024-07-16 16:56:06",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4560552",
+                                "rating": 34,
+                                "ort_score": 133.0,
+                                "created_at": "2024-07-17 14:48:33",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4330432",
+                                "rating": 35,
+                                "ort_score": 132.0,
+                                "created_at": "2024-07-17 16:58:18",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4930151",
+                                "rating": 36,
+                                "ort_score": 131.0,
+                                "created_at": "2024-07-17 09:52:02",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4200981",
+                                "rating": 37,
+                                "ort_score": 131.0,
+                                "created_at": "2024-07-17 16:34:30",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4202529",
+                                "rating": 38,
+                                "ort_score": 129.0,
+                                "created_at": "2024-07-17 16:52:43",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4810190",
+                                "rating": 39,
+                                "ort_score": 125.0,
+                                "created_at": "2024-07-17 15:26:52",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4230888",
+                                "rating": 40,
+                                "ort_score": 123.0,
+                                "created_at": "2024-07-16 12:08:56",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4212467",
+                                "rating": 41,
+                                "ort_score": 123.0,
+                                "created_at": "2024-07-17 16:22:32",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4110349",
+                                "rating": 42,
+                                "ort_score": 121.0,
+                                "created_at": "2024-07-17 16:42:12",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4520694",
+                                "rating": 43,
+                                "ort_score": 120.0,
+                                "created_at": "2024-07-17 16:40:30",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4760068",
+                                "rating": 44,
+                                "ort_score": 118.0,
+                                "created_at": "2024-07-17 16:59:07",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4750328",
+                                "rating": 45,
+                                "ort_score": 116.0,
+                                "created_at": "2024-07-16 14:32:09",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4222302",
+                                "rating": 46,
+                                "ort_score": 116.0,
+                                "created_at": "2024-07-17 11:38:57",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4448303",
+                                "rating": 47,
+                                "ort_score": 113.0,
+                                "created_at": "2024-07-16 16:22:35",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4951330",
+                                "rating": 48,
+                                "ort_score": 112.0,
+                                "created_at": "2024-07-17 14:41:29",
+                                "is_passed": false
+                            }
+                        ]
+                    },
+                    {
+                        "number": 2,
+                        "quota": 5,
+                        "applicants": [
+                            {
+                                "ort_certificate_number": "4768058",
+                                "rating": 1,
+                                "ort_score": 141.0,
+                                "created_at": "2024-07-24 09:41:54",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4930476",
+                                "rating": 2,
+                                "ort_score": 129.0,
+                                "created_at": "2024-07-24 09:55:43",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4121189",
+                                "rating": 3,
+                                "ort_score": 126.0,
+                                "created_at": "2024-07-24 09:53:04",
+                                "is_passed": true
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "name": {
+                    "kg": "Маркетинг",
+                    "ru": "Маркетинг"
+                },
+                "emoji": "\uD83D\uDCC8",
+                "stages": [
+                    {
+                        "number": 1,
+                        "quota": 30,
+                        "applicants": [
+                            {
+                                "ort_certificate_number": "4220249",
+                                "rating": 1,
+                                "ort_score": 197.0,
+                                "created_at": "2024-07-17 16:25:15",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4207815",
+                                "rating": 2,
+                                "ort_score": 197.0,
+                                "created_at": "2024-07-17 13:24:41",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4710134",
+                                "rating": 3,
+                                "ort_score": 189.0,
+                                "created_at": "2024-07-17 14:52:29",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4370037",
+                                "rating": 4,
+                                "ort_score": 183.0,
+                                "created_at": "2024-07-17 12:40:52",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4500066",
+                                "rating": 5,
+                                "ort_score": 178.0,
+                                "created_at": "2024-07-17 09:50:45",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4760075",
+                                "rating": 6,
+                                "ort_score": 176.0,
+                                "created_at": "2024-07-17 14:48:41",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4710525",
+                                "rating": 7,
+                                "ort_score": 175.0,
+                                "created_at": "2024-07-17 14:44:36",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4770170",
+                                "rating": 8,
+                                "ort_score": 174.0,
+                                "created_at": "2024-07-17 09:18:27",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4202506",
+                                "rating": 9,
+                                "ort_score": 173.0,
+                                "created_at": "2024-07-17 13:55:50",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4100691",
+                                "rating": 10,
+                                "ort_score": 170.0,
+                                "created_at": "2024-07-17 12:01:53",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4218077",
+                                "rating": 11,
+                                "ort_score": 167.0,
+                                "created_at": "2024-07-17 11:34:20",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4960020",
+                                "rating": 12,
+                                "ort_score": 163.0,
+                                "created_at": "2024-07-17 15:35:55",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4731420",
+                                "rating": 13,
+                                "ort_score": 163.0,
+                                "created_at": "2024-07-17 16:58:59",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4730913",
+                                "rating": 14,
+                                "ort_score": 162.0,
+                                "created_at": "2024-07-16 09:22:17",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4597765",
+                                "rating": 15,
+                                "ort_score": 160.0,
+                                "created_at": "2024-07-17 16:55:28",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4380743",
+                                "rating": 16,
+                                "ort_score": 159.0,
+                                "created_at": "2024-07-17 16:55:22",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4650130",
+                                "rating": 17,
+                                "ort_score": 159.0,
+                                "created_at": "2024-07-16 12:36:42",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4650459",
+                                "rating": 18,
+                                "ort_score": 158.0,
+                                "created_at": "2024-07-17 12:18:31",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4901232",
+                                "rating": 19,
+                                "ort_score": 157.0,
+                                "created_at": "2024-07-17 14:43:22",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4203379",
+                                "rating": 20,
+                                "ort_score": 157.0,
+                                "created_at": "2024-07-17 16:33:08",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4222136",
+                                "rating": 21,
+                                "ort_score": 157.0,
+                                "created_at": "2024-07-17 16:58:16",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4950829",
+                                "rating": 22,
+                                "ort_score": 154.0,
+                                "created_at": "2024-07-16 09:14:14",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4310053",
+                                "rating": 23,
+                                "ort_score": 153.0,
+                                "created_at": "2024-07-16 14:18:18",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4958057",
+                                "rating": 24,
+                                "ort_score": 153.0,
+                                "created_at": "2024-07-16 16:33:40",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4100185",
+                                "rating": 25,
+                                "ort_score": 153.0,
+                                "created_at": "2024-07-16 16:05:59",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4830463",
+                                "rating": 26,
+                                "ort_score": 153.0,
+                                "created_at": "2024-07-17 16:09:43",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4630321",
+                                "rating": 27,
+                                "ort_score": 152.0,
+                                "created_at": "2024-07-16 14:47:20",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4810312",
+                                "rating": 28,
+                                "ort_score": 152.0,
+                                "created_at": "2024-07-17 16:59:58",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4218194",
+                                "rating": 29,
+                                "ort_score": 150.0,
+                                "created_at": "2024-07-17 16:57:19",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4620148",
+                                "rating": 30,
+                                "ort_score": 150.0,
+                                "created_at": "2024-07-17 16:58:31",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4310257",
+                                "rating": 31,
+                                "ort_score": 149.0,
+                                "created_at": "2024-07-17 16:49:38",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4207992",
+                                "rating": 32,
+                                "ort_score": 148.0,
+                                "created_at": "2024-07-17 16:05:14",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4760994",
+                                "rating": 33,
+                                "ort_score": 147.0,
+                                "created_at": "2024-07-17 12:57:08",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4410185",
+                                "rating": 34,
+                                "ort_score": 147.0,
+                                "created_at": "2024-07-17 13:51:37",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4221790",
+                                "rating": 35,
+                                "ort_score": 146.0,
+                                "created_at": "2024-07-16 10:05:27",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4222185",
+                                "rating": 36,
+                                "ort_score": 145.0,
+                                "created_at": "2024-07-16 12:22:27",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4597629",
+                                "rating": 37,
+                                "ort_score": 143.0,
+                                "created_at": "2024-07-17 14:51:39",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4201924",
+                                "rating": 38,
+                                "ort_score": 141.0,
+                                "created_at": "2024-07-17 11:26:11",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4211397",
+                                "rating": 39,
+                                "ort_score": 141.0,
+                                "created_at": "2024-07-17 12:52:44",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4930261",
+                                "rating": 40,
+                                "ort_score": 140.0,
+                                "created_at": "2024-07-16 10:06:05",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4910799",
+                                "rating": 41,
+                                "ort_score": 138.0,
+                                "created_at": "2024-07-17 13:42:38",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4550078",
+                                "rating": 42,
+                                "ort_score": 135.0,
+                                "created_at": "2024-07-17 09:04:42",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4237815",
+                                "rating": 43,
+                                "ort_score": 134.0,
+                                "created_at": "2024-07-16 14:20:54",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4100265",
+                                "rating": 44,
+                                "ort_score": 126.0,
+                                "created_at": "2024-07-17 12:36:04",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4900851",
+                                "rating": 45,
+                                "ort_score": 124.0,
+                                "created_at": "2024-07-17 10:08:58",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4212611",
+                                "rating": 46,
+                                "ort_score": 124.0,
+                                "created_at": "2024-07-17 16:05:46",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4610377",
+                                "rating": 47,
+                                "ort_score": 121.0,
+                                "created_at": "2024-07-17 10:52:26",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4740076",
+                                "rating": 48,
+                                "ort_score": 118.0,
+                                "created_at": "2024-07-17 10:40:36",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4300884",
+                                "rating": 49,
+                                "ort_score": 114.0,
+                                "created_at": "2024-07-16 16:35:51",
+                                "is_passed": false
+                            }
+                        ]
+                    },
+                    {
+                        "number": 2,
+                        "quota": 6,
+                        "applicants": [
+                            {
+                                "ort_certificate_number": "4610377",
+                                "rating": 1,
+                                "ort_score": 121.0,
+                                "created_at": "2024-07-24 09:12:59",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4300884",
+                                "rating": 2,
+                                "ort_score": 114.0,
+                                "created_at": "2024-07-24 10:02:31",
+                                "is_passed": true
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "name": {
+                    "kg": "Туризм",
+                    "ru": "Туризм"
+                },
+                "emoji": "\uD83C\uDF0D",
+                "stages": [
+                    {
+                        "number": 1,
+                        "quota": 30,
+                        "applicants": [
+                            {
+                                "ort_certificate_number": "4901130",
+                                "rating": 1,
+                                "ort_score": 217.0,
+                                "created_at": "2024-07-16 11:48:39",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4630418",
+                                "rating": 2,
+                                "ort_score": 204.0,
+                                "created_at": "2024-07-17 15:08:57",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4610585",
+                                "rating": 3,
+                                "ort_score": 194.0,
+                                "created_at": "2024-07-17 15:58:00",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4220345",
+                                "rating": 4,
+                                "ort_score": 193.0,
+                                "created_at": "2024-07-16 11:26:48",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4900095",
+                                "rating": 5,
+                                "ort_score": 190.0,
+                                "created_at": "2024-07-17 16:59:12",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4730589",
+                                "rating": 6,
+                                "ort_score": 189.0,
+                                "created_at": "2024-07-17 14:17:51",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4217948",
+                                "rating": 7,
+                                "ort_score": 183.0,
+                                "created_at": "2024-07-17 16:33:50",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4447941",
+                                "rating": 8,
+                                "ort_score": 179.0,
+                                "created_at": "2024-07-17 11:07:43",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4700729",
+                                "rating": 9,
+                                "ort_score": 175.0,
+                                "created_at": "2024-07-17 11:57:31",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4630058",
+                                "rating": 10,
+                                "ort_score": 175.0,
+                                "created_at": "2024-07-17 14:15:45",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4760066",
+                                "rating": 11,
+                                "ort_score": 174.0,
+                                "created_at": "2024-07-17 16:26:52",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4222298",
+                                "rating": 12,
+                                "ort_score": 174.0,
+                                "created_at": "2024-07-17 16:50:34",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4210264",
+                                "rating": 13,
+                                "ort_score": 173.0,
+                                "created_at": "2024-07-17 12:43:16",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4708316",
+                                "rating": 14,
+                                "ort_score": 173.0,
+                                "created_at": "2024-07-17 12:08:03",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4760327",
+                                "rating": 15,
+                                "ort_score": 172.0,
+                                "created_at": "2024-07-17 11:03:12",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4730478",
+                                "rating": 16,
+                                "ort_score": 171.0,
+                                "created_at": "2024-07-17 16:58:04",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4900353",
+                                "rating": 17,
+                                "ort_score": 170.0,
+                                "created_at": "2024-07-17 16:59:30",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4600260",
+                                "rating": 18,
+                                "ort_score": 170.0,
+                                "created_at": "2024-07-17 13:55:19",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4550306",
+                                "rating": 19,
+                                "ort_score": 170.0,
+                                "created_at": "2024-07-16 12:35:27",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4360161",
+                                "rating": 20,
+                                "ort_score": 170.0,
+                                "created_at": "2024-07-17 16:22:16",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4597477",
+                                "rating": 21,
+                                "ort_score": 170.0,
+                                "created_at": "2024-07-17 16:03:37",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4380478",
+                                "rating": 22,
+                                "ort_score": 169.0,
+                                "created_at": "2024-07-17 16:19:38",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4650503",
+                                "rating": 23,
+                                "ort_score": 169.0,
+                                "created_at": "2024-07-17 14:33:03",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4550163",
+                                "rating": 24,
+                                "ort_score": 168.0,
+                                "created_at": "2024-07-16 15:48:49",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4610583",
+                                "rating": 25,
+                                "ort_score": 168.0,
+                                "created_at": "2024-07-16 09:27:43",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4750806",
+                                "rating": 26,
+                                "ort_score": 166.0,
+                                "created_at": "2024-07-16 11:02:19",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4380106",
+                                "rating": 27,
+                                "ort_score": 165.0,
+                                "created_at": "2024-07-17 11:35:51",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4520055",
+                                "rating": 28,
+                                "ort_score": 165.0,
+                                "created_at": "2024-07-17 16:59:45",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4740089",
+                                "rating": 29,
+                                "ort_score": 165.0,
+                                "created_at": "2024-07-17 13:56:26",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4597456",
+                                "rating": 30,
+                                "ort_score": 164.0,
+                                "created_at": "2024-07-17 16:24:43",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4400057",
+                                "rating": 31,
+                                "ort_score": 164.0,
+                                "created_at": "2024-07-17 16:56:54",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4203362",
+                                "rating": 32,
+                                "ort_score": 163.0,
+                                "created_at": "2024-07-17 15:30:07",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4330405",
+                                "rating": 33,
+                                "ort_score": 163.0,
+                                "created_at": "2024-07-16 14:31:44",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4300432",
+                                "rating": 34,
+                                "ort_score": 162.0,
+                                "created_at": "2024-07-17 16:27:09",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4950116",
+                                "rating": 35,
+                                "ort_score": 161.0,
+                                "created_at": "2024-07-17 10:33:08",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4640116",
+                                "rating": 36,
+                                "ort_score": 160.0,
+                                "created_at": "2024-07-16 13:36:13",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4510652",
+                                "rating": 37,
+                                "ort_score": 158.0,
+                                "created_at": "2024-07-16 09:55:37",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4330617",
+                                "rating": 38,
+                                "ort_score": 158.0,
+                                "created_at": "2024-07-16 11:45:00",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4212645",
+                                "rating": 39,
+                                "ort_score": 157.0,
+                                "created_at": "2024-07-16 15:52:52",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4510153",
+                                "rating": 40,
+                                "ort_score": 157.0,
+                                "created_at": "2024-07-17 14:07:34",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4530249",
+                                "rating": 41,
+                                "ort_score": 157.0,
+                                "created_at": "2024-07-16 13:27:25",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4210305",
+                                "rating": 42,
+                                "ort_score": 156.0,
+                                "created_at": "2024-07-17 15:59:25",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4222284",
+                                "rating": 43,
+                                "ort_score": 155.0,
+                                "created_at": "2024-07-17 12:46:35",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4202649",
+                                "rating": 44,
+                                "ort_score": 155.0,
+                                "created_at": "2024-07-16 14:37:58",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4971049",
+                                "rating": 45,
+                                "ort_score": 154.0,
+                                "created_at": "2024-07-16 14:19:33",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4201577",
+                                "rating": 46,
+                                "ort_score": 154.0,
+                                "created_at": "2024-07-17 13:52:20",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4520640",
+                                "rating": 47,
+                                "ort_score": 151.0,
+                                "created_at": "2024-07-16 09:53:34",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4630250",
+                                "rating": 48,
+                                "ort_score": 148.0,
+                                "created_at": "2024-07-17 11:49:07",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4360372",
+                                "rating": 49,
+                                "ort_score": 147.0,
+                                "created_at": "2024-07-16 16:48:14",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4640517",
+                                "rating": 50,
+                                "ort_score": 145.0,
+                                "created_at": "2024-07-16 13:06:10",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4910371",
+                                "rating": 51,
+                                "ort_score": 144.0,
+                                "created_at": "2024-07-16 15:52:59",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4210153",
+                                "rating": 52,
+                                "ort_score": 143.0,
+                                "created_at": "2024-07-16 16:05:52",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4350092",
+                                "rating": 53,
+                                "ort_score": 143.0,
+                                "created_at": "2024-07-17 10:24:32",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4300861",
+                                "rating": 54,
+                                "ort_score": 141.0,
+                                "created_at": "2024-07-17 11:03:14",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4211949",
+                                "rating": 55,
+                                "ort_score": 141.0,
+                                "created_at": "2024-07-16 09:07:13",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4960102",
+                                "rating": 56,
+                                "ort_score": 141.0,
+                                "created_at": "2024-07-16 10:41:56",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4520625",
+                                "rating": 57,
+                                "ort_score": 140.0,
+                                "created_at": "2024-07-16 10:52:15",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4510411",
+                                "rating": 58,
+                                "ort_score": 138.0,
+                                "created_at": "2024-07-16 11:59:55",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4610571",
+                                "rating": 59,
+                                "ort_score": 137.0,
+                                "created_at": "2024-07-16 11:15:18",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4140236",
+                                "rating": 60,
+                                "ort_score": 137.0,
+                                "created_at": "2024-07-17 10:48:45",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4201822",
+                                "rating": 61,
+                                "ort_score": 135.0,
+                                "created_at": "2024-07-16 10:49:40",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4222227",
+                                "rating": 62,
+                                "ort_score": 134.0,
+                                "created_at": "2024-07-17 09:39:02",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4202491",
+                                "rating": 63,
+                                "ort_score": 134.0,
+                                "created_at": "2024-07-16 11:00:09",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4700173",
+                                "rating": 64,
+                                "ort_score": 133.0,
+                                "created_at": "2024-07-16 11:29:54",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4710585",
+                                "rating": 65,
+                                "ort_score": 131.0,
+                                "created_at": "2024-07-16 13:29:13",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4500004",
+                                "rating": 66,
+                                "ort_score": 130.0,
+                                "created_at": "2024-07-17 15:30:29",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4530325",
+                                "rating": 67,
+                                "ort_score": 130.0,
+                                "created_at": "2024-07-16 13:16:07",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4560102",
+                                "rating": 68,
+                                "ort_score": 128.0,
+                                "created_at": "2024-07-17 15:29:24",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4610021",
+                                "rating": 69,
+                                "ort_score": 124.0,
+                                "created_at": "2024-07-17 09:29:30",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4640074",
+                                "rating": 70,
+                                "ort_score": 116.0,
+                                "created_at": "2024-07-16 13:23:55",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4940228",
+                                "rating": 71,
+                                "ort_score": 114.0,
+                                "created_at": "2024-07-17 10:30:03",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4940283",
+                                "rating": 72,
+                                "ort_score": 114.0,
+                                "created_at": "2024-07-16 11:16:36",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4203117",
+                                "rating": 73,
+                                "ort_score": 111.0,
+                                "created_at": "2024-07-16 10:44:42",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4530036",
+                                "rating": 74,
+                                "ort_score": 111.0,
+                                "created_at": "2024-07-16 11:01:29",
+                                "is_passed": false
+                            }
+                        ]
+                    },
+                    {
+                        "number": 2,
+                        "quota": 8,
+                        "applicants": [
+                            {
+                                "ort_certificate_number": "4520126",
+                                "rating": 1,
+                                "ort_score": 176.0,
+                                "created_at": "2024-07-24 09:17:51",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4910773",
+                                "rating": 2,
+                                "ort_score": 116.0,
+                                "created_at": "2024-07-24 09:07:39",
+                                "is_passed": true
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "name": {
+                    "kg": "Жыгач иштетүүнүн технологиясы, эмеректер дизайны жана конструкциялоо",
+                    "ru": "Технология деревообработки, дизайн и конструирование мебели"
+                },
+                "emoji": "🪵",
+                "stages": [
+                    {
+                        "number": 1,
+                        "quota": 30,
+                        "applicants": [
+                            {
+                                "ort_certificate_number": "4203320",
+                                "rating": 1,
+                                "ort_score": 182.0,
+                                "created_at": "2024-07-16 15:06:33",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4400202",
+                                "rating": 2,
+                                "ort_score": 167.0,
+                                "created_at": "2024-07-17 09:34:58",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4212421",
+                                "rating": 3,
+                                "ort_score": 163.0,
+                                "created_at": "2024-07-17 12:04:51",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4650105",
+                                "rating": 4,
+                                "ort_score": 149.0,
+                                "created_at": "2024-07-16 10:16:00",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4520194",
+                                "rating": 5,
+                                "ort_score": 143.0,
+                                "created_at": "2024-07-17 16:58:54",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4960290",
+                                "rating": 6,
+                                "ort_score": 141.0,
+                                "created_at": "2024-07-17 16:57:02",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4310008",
+                                "rating": 7,
+                                "ort_score": 139.0,
+                                "created_at": "2024-07-17 16:47:27",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4207805",
+                                "rating": 8,
+                                "ort_score": 138.0,
+                                "created_at": "2024-07-16 12:26:28",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4380256",
+                                "rating": 9,
+                                "ort_score": 133.0,
+                                "created_at": "2024-07-17 16:47:58",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4537930",
+                                "rating": 10,
+                                "ort_score": 133.0,
+                                "created_at": "2024-07-16 09:13:14",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4900547",
+                                "rating": 11,
+                                "ort_score": 132.0,
+                                "created_at": "2024-07-17 15:13:02",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4221545",
+                                "rating": 12,
+                                "ort_score": 132.0,
+                                "created_at": "2024-07-17 14:58:19",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4761141",
+                                "rating": 13,
+                                "ort_score": 130.0,
+                                "created_at": "2024-07-17 14:45:01",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4207890",
+                                "rating": 14,
+                                "ort_score": 130.0,
+                                "created_at": "2024-07-17 10:04:29",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4600054",
+                                "rating": 15,
+                                "ort_score": 128.0,
+                                "created_at": "2024-07-17 16:43:20",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4740424",
+                                "rating": 16,
+                                "ort_score": 128.0,
+                                "created_at": "2024-07-16 10:14:43",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4520660",
+                                "rating": 17,
+                                "ort_score": 126.0,
+                                "created_at": "2024-07-17 16:29:55",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4650188",
+                                "rating": 18,
+                                "ort_score": 125.0,
+                                "created_at": "2024-07-17 16:59:21",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4203343",
+                                "rating": 19,
+                                "ort_score": 121.0,
+                                "created_at": "2024-07-17 15:14:20",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4320268",
+                                "rating": 20,
+                                "ort_score": 119.0,
+                                "created_at": "2024-07-17 14:22:24",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4930407",
+                                "rating": 21,
+                                "ort_score": 119.0,
+                                "created_at": "2024-07-17 16:54:35",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4201877",
+                                "rating": 22,
+                                "ort_score": 117.0,
+                                "created_at": "2024-07-17 16:42:13",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4560175",
+                                "rating": 23,
+                                "ort_score": 116.0,
+                                "created_at": "2024-07-17 16:59:22",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4400198",
+                                "rating": 24,
+                                "ort_score": 114.0,
+                                "created_at": "2024-07-17 11:52:55",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4100473",
+                                "rating": 25,
+                                "ort_score": 112.0,
+                                "created_at": "2024-07-17 16:58:09",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4360318",
+                                "rating": 26,
+                                "ort_score": 112.0,
+                                "created_at": "2024-07-17 16:55:02",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4740032",
+                                "rating": 27,
+                                "ort_score": 110.0,
+                                "created_at": "2024-07-17 16:46:08",
+                                "is_passed": true
+                            }
+                        ]
+                    },
+                    {
+                        "number": 2,
+                        "quota": 10,
+                        "applicants": []
+                    }
+                ]
+            },
+            {
+                "id": 10,
+                "name": {
+                    "kg": "Автоматташтырылган системаларды жана эсептөө техникаларын программалык камсыздоо программасына",
+                    "ru": "Программное обеспечение вычислительной техники и автоматизированных систем"
+                },
+                "emoji": "\uD83D\uDCBB",
+                "stages": [
+                    {
+                        "number": 1,
+                        "quota": 30,
+                        "applicants": [
+                            {
+                                "ort_certificate_number": "4207926",
+                                "rating": 1,
+                                "ort_score": 198.0,
+                                "created_at": "2024-07-17 16:32:49",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4222276",
+                                "rating": 2,
+                                "ort_score": 198.0,
+                                "created_at": "2024-07-17 10:01:23",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4761078",
+                                "rating": 3,
+                                "ort_score": 193.0,
+                                "created_at": "2024-07-16 15:13:12",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4500455",
+                                "rating": 4,
+                                "ort_score": 178.0,
+                                "created_at": "2024-07-17 13:52:02",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4230656",
+                                "rating": 5,
+                                "ort_score": 175.0,
+                                "created_at": "2024-07-17 11:12:49",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4750807",
+                                "rating": 6,
+                                "ort_score": 175.0,
+                                "created_at": "2024-07-17 16:55:51",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4380784",
+                                "rating": 7,
+                                "ort_score": 174.0,
+                                "created_at": "2024-07-17 13:03:43",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4960315",
+                                "rating": 8,
+                                "ort_score": 171.0,
+                                "created_at": "2024-07-17 16:34:47",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4530503",
+                                "rating": 9,
+                                "ort_score": 171.0,
+                                "created_at": "2024-07-17 16:34:44",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4700513",
+                                "rating": 10,
+                                "ort_score": 167.0,
+                                "created_at": "2024-07-17 16:08:04",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4980179",
+                                "rating": 11,
+                                "ort_score": 166.0,
+                                "created_at": "2024-07-17 14:20:38",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4222134",
+                                "rating": 12,
+                                "ort_score": 166.0,
+                                "created_at": "2024-07-17 16:35:10",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4980299",
+                                "rating": 13,
+                                "ort_score": 164.0,
+                                "created_at": "2024-07-17 14:01:08",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4201434",
+                                "rating": 14,
+                                "ort_score": 162.0,
+                                "created_at": "2024-07-16 13:33:12",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4597927",
+                                "rating": 15,
+                                "ort_score": 162.0,
+                                "created_at": "2024-07-17 16:42:43",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4222235",
+                                "rating": 16,
+                                "ort_score": 161.0,
+                                "created_at": "2024-07-17 15:35:54",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4200982",
+                                "rating": 17,
+                                "ort_score": 160.0,
+                                "created_at": "2024-07-17 16:52:39",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4390029",
+                                "rating": 18,
+                                "ort_score": 160.0,
+                                "created_at": "2024-07-16 09:19:55",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4760782",
+                                "rating": 19,
+                                "ort_score": 160.0,
+                                "created_at": "2024-07-17 16:58:57",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4730998",
+                                "rating": 20,
+                                "ort_score": 154.0,
+                                "created_at": "2024-07-17 16:39:09",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4201856",
+                                "rating": 21,
+                                "ort_score": 154.0,
+                                "created_at": "2024-07-17 16:44:30",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4447953",
+                                "rating": 22,
+                                "ort_score": 152.0,
+                                "created_at": "2024-07-17 16:55:33",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4620289",
+                                "rating": 23,
+                                "ort_score": 149.0,
+                                "created_at": "2024-07-17 15:34:34",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4211194",
+                                "rating": 24,
+                                "ort_score": 149.0,
+                                "created_at": "2024-07-16 15:31:50",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4380747",
+                                "rating": 25,
+                                "ort_score": 148.0,
+                                "created_at": "2024-07-17 16:58:13",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4500582",
+                                "rating": 26,
+                                "ort_score": 146.0,
+                                "created_at": "2024-07-17 16:53:41",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4510461",
+                                "rating": 27,
+                                "ort_score": 146.0,
+                                "created_at": "2024-07-17 16:45:22",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4222448",
+                                "rating": 28,
+                                "ort_score": 145.0,
+                                "created_at": "2024-07-17 09:26:12",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4770149",
+                                "rating": 29,
+                                "ort_score": 145.0,
+                                "created_at": "2024-07-17 14:13:11",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4211306",
+                                "rating": 30,
+                                "ort_score": 144.0,
+                                "created_at": "2024-07-17 16:57:42",
+                                "is_passed": true
+                            },
+                            {
+                                "ort_certificate_number": "4820181",
+                                "rating": 31,
+                                "ort_score": 144.0,
+                                "created_at": "2024-07-17 16:04:38",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4527806",
+                                "rating": 32,
+                                "ort_score": 143.0,
+                                "created_at": "2024-07-17 16:44:10",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4700512",
+                                "rating": 33,
+                                "ort_score": 141.0,
+                                "created_at": "2024-07-17 16:06:49",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4211095",
+                                "rating": 34,
+                                "ort_score": 140.0,
+                                "created_at": "2024-07-17 16:23:35",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4232465",
+                                "rating": 35,
+                                "ort_score": 140.0,
+                                "created_at": "2024-07-17 16:16:43",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4750240",
+                                "rating": 36,
+                                "ort_score": 139.0,
+                                "created_at": "2024-07-17 16:33:45",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4597837",
+                                "rating": 37,
+                                "ort_score": 137.0,
+                                "created_at": "2024-07-17 14:38:06",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4610586",
+                                "rating": 38,
+                                "ort_score": 136.0,
+                                "created_at": "2024-07-17 16:15:56",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4218296",
+                                "rating": 39,
+                                "ort_score": 136.0,
+                                "created_at": "2024-07-17 16:21:11",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4530483",
+                                "rating": 40,
+                                "ort_score": 135.0,
+                                "created_at": "2024-07-17 11:21:30",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4201657",
+                                "rating": 41,
+                                "ort_score": 133.0,
+                                "created_at": "2024-07-17 11:09:57",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4951227",
+                                "rating": 42,
+                                "ort_score": 131.0,
+                                "created_at": "2024-07-17 12:25:55",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4901251",
+                                "rating": 43,
+                                "ort_score": 131.0,
+                                "created_at": "2024-07-17 15:55:58",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4221473",
+                                "rating": 44,
+                                "ort_score": 130.0,
+                                "created_at": "2024-07-16 14:09:56",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4520672",
+                                "rating": 45,
+                                "ort_score": 126.0,
+                                "created_at": "2024-07-17 16:37:50",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4300209",
+                                "rating": 46,
+                                "ort_score": 126.0,
+                                "created_at": "2024-07-17 15:43:11",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4217811",
+                                "rating": 47,
+                                "ort_score": 126.0,
+                                "created_at": "2024-07-17 15:33:22",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4640364",
+                                "rating": 48,
+                                "ort_score": 126.0,
+                                "created_at": "2024-07-17 16:28:38",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4510530",
+                                "rating": 49,
+                                "ort_score": 122.0,
+                                "created_at": "2024-07-17 11:26:26",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4140072",
+                                "rating": 50,
+                                "ort_score": 121.0,
+                                "created_at": "2024-07-17 14:14:41",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4700380",
+                                "rating": 51,
+                                "ort_score": 119.0,
+                                "created_at": "2024-07-16 11:11:41",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4110596",
+                                "rating": 52,
+                                "ort_score": 118.0,
+                                "created_at": "2024-07-17 16:16:04",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4770148",
+                                "rating": 53,
+                                "ort_score": 116.0,
+                                "created_at": "2024-07-17 14:04:30",
+                                "is_passed": false
+                            },
+                            {
+                                "ort_certificate_number": "4200912",
+                                "rating": 54,
+                                "ort_score": 115.0,
+                                "created_at": "2024-07-16 13:45:42",
+                                "is_passed": false
+                            }
+                        ]
+                    },
+                    {
+                        "number": 2,
+                        "quota": 11,
+                        "applicants": [
+                            {
+                                "ort_certificate_number": "4448443",
+                                "rating": 1,
+                                "ort_score": 179.0,
+                                "created_at": "2024-07-24 09:19:23",
+                                "is_passed": true
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

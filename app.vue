@@ -20,10 +20,6 @@
 
 <script setup>
 import 'primeicons/primeicons.css'
-import { useRatingsStore } from '~/stores/ratings'
-import facultiesDepartments from '~/assets/facultiesDepartments.json'
 
-const ratingsStore = useRatingsStore()
-
-ratingsStore.setFacultiesDepartments(facultiesDepartments)
+provide('language', 'ru')
 </script>
