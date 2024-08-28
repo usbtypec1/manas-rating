@@ -3,15 +3,15 @@
     <div class="flex justify-center md:justify-end my-3">
       <SelectButton v-model="stageOption" :options="stagesOptions"/>
     </div>
-    <BachelorApplicantsTable :applicants="applicants"/>
+    <MYOApplicantsTable :applicants="applicants"/>
     <FloatingCornerButton page-name="index" severity="primary"/>
   </div>
 </template>
 
 <script setup lang="ts">
-import { useBachelorFacultiesStore } from '~/stores/bachelorFaculties'
 import type { Stage } from '~/types/stages'
-import type { BachelorApplicant } from '~/types/applications'
+import type { MYOApplicant } from '~/types/applications'
+import { useMyoFacultiesStore } from '~/stores/myoFaculties'
 
 const stagesOptions = [
   'Первый тур',
@@ -25,16 +25,16 @@ const { params } = useRoute()
 
 const departmentId = parseInt(params.id)
 
-const bachelorFacultiesStore = useBachelorFacultiesStore()
+const myoFacultiesStore = useMyoFacultiesStore()
 
-if (!bachelorFacultiesStore.faculties) {
-  await bachelorFacultiesStore.fetchAll()
+if (!myoFacultiesStore.faculties) {
+  await myoFacultiesStore.fetchAll()
 }
 
-const department = bachelorFacultiesStore.getDepartmentById(departmentId)
+const department = myoFacultiesStore.getDepartmentById(departmentId)
 
 
-const applicants = computed((): BachelorApplicant[] => {
+const applicants = computed((): MYOApplicant[] => {
   department?.stages.forEach(stage => {
     stage.applicants.forEach(applicant => {
       applicant.stage = stage.number
@@ -42,15 +42,15 @@ const applicants = computed((): BachelorApplicant[] => {
   })
 
   const optionToFilterPredicate = {
-    'Первый тур': (stage: Stage<BachelorApplicant>): boolean => stage.number === 1,
-    'Второй тур': (stage: Stage<BachelorApplicant>): boolean => stage.number === 2,
-    'Вместе': (stage: Stage<BachelorApplicant>): boolean => true,
+    'Первый тур': (stage: Stage<MYOApplicant>): boolean => stage.number === 1,
+    'Второй тур': (stage: Stage<MYOApplicant>): boolean => stage.number === 2,
+    'Вместе': (stage: Stage<MYOApplicant>): boolean => true,
   }
 
   const filterPredicate = optionToFilterPredicate[stageOption.value]
 
   const stages = department?.stages.filter(filterPredicate)
 
-  return stages.flatMap((stage: Stage<BachelorApplicant>) => stage.applicants)
+  return stages.flatMap((stage: Stage<MYOApplicant>) => stage.applicants)
 })
 </script>

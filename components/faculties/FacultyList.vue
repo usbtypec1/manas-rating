@@ -6,6 +6,7 @@
   >
     <BachelorFacultyTable :faculty="faculty"/>
   </div>
+
   <div
     v-for="faculty in myoFaculties"
     :key="faculty.id"

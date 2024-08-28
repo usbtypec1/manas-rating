@@ -3,7 +3,7 @@ import type { Faculty } from '~/types/faculties'
 import type { BachelorApplicant } from '~/types/applications'
 import type { Department } from '~/types/departments'
 
-export const useBachelorFacultiesStore = defineStore('facultiesStore', () => {
+export const useBachelorFacultiesStore = defineStore('bachelorFacultiesStore', () => {
   const faculties = ref<Faculty<BachelorApplicant>[]>()
 
   const fetchAll = async () => {
