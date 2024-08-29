@@ -7,7 +7,8 @@
     outlined
     severity="help"
   />
-  <DataTable :value="applicants">
+  <p v-if="applicants.length === 0" class="text-center font-semibold text-2xl">Нет данных</p>
+  <DataTable v-else :value="applicants">
     <Column
       field="id"
       header="Рег.номер"

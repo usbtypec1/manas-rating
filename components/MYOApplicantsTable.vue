@@ -1,5 +1,6 @@
 <template>
-  <DataTable :value="applicants">
+  <p v-if="applicants.length === 0" class="text-center font-semibold text-2xl">Нет данных</p>
+  <DataTable v-else :value="applicants">
     <Column
       field="ort_certificate_number"
       header="Номер сертификата ОРТ"
