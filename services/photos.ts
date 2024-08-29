@@ -11,6 +11,7 @@ export const PHOTOS_BLACKLIST_APPLICATION_NUMBERS = new Set<string>([
   '24002005',
   '24001115',
   '24000804',
+  '24004881',
 ])
 
 export const isAllowedToShowPhoto = (applicantId: string): boolean => !PHOTOS_BLACKLIST_APPLICATION_NUMBERS.has(applicantId)
