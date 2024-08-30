@@ -39,5 +39,12 @@ export default defineNuxtConfig({
     },
   },
 
+  runtimeConfig: {
+    public: {
+      isPhotosEnabled: process.env.NUXT_IS_PHOTOS_ENABLED === 'true',
+    },
+  },
+
+
   compatibilityDate: '2024-07-11',
 });

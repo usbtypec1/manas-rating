@@ -19,6 +19,7 @@
       :sortable="isColumnsSortable"
     />
     <Column
+      v-if="isPhotosEnabled"
       header="Фото"
     >
       <template #body="slotProps">
@@ -80,6 +81,10 @@
 <script setup lang="ts">
 import type { BachelorApplicant } from '~/types/applications'
 import { isAllowedToShowPhoto } from '~/services/photos'
+
+const runtimeConfig = useRuntimeConfig()
+
+const isPhotosEnabled = runtimeConfig.public.isPhotosEnabled
 
 const isColumnsSortable = computed((): boolean => props.applicants.length > 1)
 
