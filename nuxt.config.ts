@@ -8,7 +8,7 @@ export default defineNuxtConfig({
   modules: [
     '@pinia/nuxt',
     '@primevue/nuxt-module',
-    "@nuxt/image",
+    '@nuxt/image',
     '@nuxt/content',
   ],
 
@@ -38,13 +38,6 @@ export default defineNuxtConfig({
       mode: 'out-in',
     },
   },
-
-  runtimeConfig: {
-    public: {
-      isPhotosEnabled: process.env.NUXT_IS_PHOTOS_ENABLED === 'true',
-    },
-  },
-
 
   compatibilityDate: '2024-07-11',
 });

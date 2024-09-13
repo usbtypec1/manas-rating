@@ -1,7 +1,7 @@
 <template>
   <Button
-    v-if="isPhotosShown"
-    @click="isPhotosShown = false"
+    v-if="isPhotosEnabled"
+    @click="isPhotosEnabled = false"
     label="Cкрыть фото обратно"
     class="w-full mb-4 mt-2"
     outlined
@@ -23,21 +23,11 @@
       header="Фото"
     >
       <template #body="slotProps">
-        <template v-if="isAllowedToShowPhoto(slotProps.data.id)">
-          <NuxtImg
-            v-show="isPhotosShown"
-            :src="slotProps.data.photo_url"
-            loading="lazy"
-          />
-          <Button
-            v-show="!isPhotosShown"
-            label="Показать"
-            outlined
-            rounded
-            severity="help"
-            @click="onShowPhotos"
-          />
-        </template>
+        <NuxtImg
+          v-if="isAllowedToShowPhoto(slotProps.data.id)"
+          :src="slotProps.data.photo_url"
+          loading="lazy"
+        />
       </template>
     </Column>
 
@@ -82,9 +72,7 @@
 import type { BachelorApplicant } from '~/types/applications'
 import { isAllowedToShowPhoto } from '~/services/photos'
 
-const runtimeConfig = useRuntimeConfig()
-
-const isPhotosEnabled = runtimeConfig.public.isPhotosEnabled
+const isPhotosEnabled = useState('isPhotosEnabled')
 
 const isColumnsSortable = computed((): boolean => props.applicants.length > 1)
 
